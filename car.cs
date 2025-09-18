@@ -11,7 +11,7 @@ namespace TorsdagExercise
         // Method to print car information
         public void PrintInfo()
         {
-            System.Console.WriteLine($"This is a {Brand} {Model} from {Year}");
+            Console.WriteLine($"This is a {Brand} {Model} from {Year}");
         }
     }
     
