@@ -1,0 +1,15 @@
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/bin/Debug/net9.0/TorsdagExercise
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/bin/Debug/net9.0/TorsdagExercise.deps.json
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/bin/Debug/net9.0/TorsdagExercise.runtimeconfig.json
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/bin/Debug/net9.0/TorsdagExercise.dll
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/bin/Debug/net9.0/TorsdagExercise.pdb
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.AssemblyInfoInputs.cache
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.AssemblyInfo.cs
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.csproj.CoreCompileInputs.cache
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.sourcelink.json
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.dll
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/refint/TorsdagExercise.dll
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.pdb
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/TorsdagExercise.genruntimeconfig.cache
+/Users/johnjr/Documents/Backend Cloud/Objektsorienterad Programmering med C# del1/TorsdagExercise/obj/Debug/net9.0/ref/TorsdagExercise.dll
