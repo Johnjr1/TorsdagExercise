@@ -15,6 +15,17 @@ car2.Brand = "Mercedes";
 car2.Model = "C63 AMG";
 car2.Year = 2025;
 
+// Create an instance of the Animal class and set its properties
+Animal dog = new Animal();
+Animal cat = new Animal();
+
+dog.Type = "Dog";
+dog.Sound = "Woof";
+cat.Type = "Cat";
+cat.Sound = "Meow";
+
+
+// Create an instance of the BankAccount class and perform some operations
 BankAccount money = new BankAccount();
 money.Deposit(1000);
 money.GetBalance();
@@ -24,4 +35,7 @@ money.GetBalance();
 
 car1.PrintInfo();
 car2.PrintInfo();
+
+dog.MakeSound();
+cat.MakeSound();
 
