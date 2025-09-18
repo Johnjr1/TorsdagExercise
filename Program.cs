@@ -25,6 +25,13 @@ cat.Type = "Cat";
 cat.Sound = "Meow";
 
 
+// Create an instance of the Student class and set its inherited properties
+Student student1 = new Student();
+student1.Name = "John";
+student1.Age = 85;
+student1.StudentID = "123456";
+
+
 // Create an instance of the BankAccount class and perform some operations
 BankAccount money = new BankAccount();
 money.Deposit(1000);
@@ -38,4 +45,6 @@ car2.PrintInfo();
 
 dog.MakeSound();
 cat.MakeSound();
+
+student1.PrintStudentInfo();
 
