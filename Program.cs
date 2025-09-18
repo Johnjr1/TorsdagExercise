@@ -32,6 +32,10 @@ student1.Age = 85;
 student1.StudentID = "123456";
 
 
+Shape circle = new Circle();
+Shape rectangle = new Rectangle();
+
+
 // Create an instance of the BankAccount class and perform some operations
 BankAccount money = new BankAccount();
 money.Deposit(1000);
@@ -47,4 +51,7 @@ dog.MakeSound();
 cat.MakeSound();
 
 student1.PrintStudentInfo();
+
+circle.GetArea();
+rectangle.GetArea();
 
